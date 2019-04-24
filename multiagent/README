@@ -1,0 +1,3 @@
+Created ghost agents in pacman of which act according to expectimax methods. Pacman acts optimally with minimax.
+
+To run, type python autograder.py -q q5
